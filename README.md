@@ -15,10 +15,9 @@ This list stores the available permissions levels of the SharePoint page. This i
 
 ![Permission_Level list](assets/permission_level_list.png)
 
-# Call flows:
+# Call flows / use functionality:
 
 Using action [run a child flow](https://learn.microsoft.com/en-us/power-automate/create-child-flows).
-
 
 ## Grant permissions
 
@@ -37,7 +36,7 @@ Using action [run a child flow](https://learn.microsoft.com/en-us/power-automate
 ![remove list permission](assets/remove_listpermission.png)
 
 
-## Set up the dependencies
+# Before you start: Set up the dependencies
 
 ### [Install PnP.PowerShell](https://pnp.github.io/powershell/) 
 

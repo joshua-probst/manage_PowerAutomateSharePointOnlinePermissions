@@ -56,7 +56,7 @@ Import the solution "managePermissions.zip" to your environment and add the new 
 
 ![import solution](assets/import_Solution.png)
 
-YOUR DONE and you can now use the flow to manage your permissions in SharePoint Online.
+YOU ARE DONE! You can now use the flow to manage your permissions in SharePoint Online.
 
 ##
 

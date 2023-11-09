@@ -58,4 +58,8 @@ Import the solution "managePermissions.zip" to your environment and add the new 
 
 YOUR DONE and you can now use the flow to manage your permissions in SharePoint Online.
 
+##
 
+| Author |
+| ----------- |
+| [Joshua Probst](https://github.com/joshua-probst) |
